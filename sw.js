@@ -1,4 +1,4 @@
-// Kéva — fonctionnement hors ligne.
+// keV-a — fonctionnement hors ligne.
 // Stratégie : on sert toujours la copie locale (instantané, marche sans réseau),
 // et on télécharge la nouvelle version en arrière-plan. Elle s'applique à l'ouverture suivante.
 const CACHE = "keva-v1";

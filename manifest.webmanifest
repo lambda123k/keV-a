@@ -1,7 +1,7 @@
 {
-  "name": "Kéva — raies γ",
-  "short_name": "Kéva",
-  "description": "Kéva : identification des raies gamma et aide au dépouillement de spectres, hors ligne.",
+  "name": "keV-a — raies γ",
+  "short_name": "keV-a",
+  "description": "keV-a : identification des raies gamma et aide au dépouillement de spectres, hors ligne.",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",
